@@ -1,4 +1,4 @@
-# Autograding Example: Java
+# Autograding Assessment: Java
 This example project is written in Java, and tested with Gradle/JUnit.
 
 ### The assignment
