@@ -3,7 +3,7 @@ This example project is written in Java, and tested with Gradle/JUnit.
 
 ### The assignment
 This assignment is composed by 3 problems. Each problem has each own class and the description is there.
-The unit tests are already setup to expect the correct output and they'll run as github actions as soon as you push your changes.
+The base classes for the unit tests are already setup and they'll run as github actions as soon as you push your changes.
 Once you finish you must the development you can open a pull request or commit directly to master.
 You can make changes to your code until the assignment expires.
 
