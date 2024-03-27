@@ -2,7 +2,8 @@
 This example project is written in Java, and tested with Gradle/JUnit.
 
 ### The assignment
-The tests are currently failing because of an output mismatch. Fixing the `System.out.println` in the main method will make the tests green.
+This assignment is composed by 3 problems. Each problem has each own class and the description is there.
+The unit tests are already setup to expect the correct output and they'll run as github actions as soon as you push your changes and merge them to master.
 
 ### Setup command
 N/A
